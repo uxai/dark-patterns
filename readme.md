@@ -1,5 +1,7 @@
 # Dark Patterns Plugin
 
+*Copy of repository from my old [github](https://github.com/oneuxco) account which I lost access to.*
+
 [Download in Chrome store](https://chrome.google.com/webstore/detail/mmodaifhembdmcmgcmmjlfceflekmkoc/publish-accepted?authuser=0&hl=en) | [Download in Firefox store](https://addons.mozilla.org/en-US/firefox/addon/dark-patterns/) 
 
 This plugin is early beta and has limited data, however as our database of dark patterns grow you will be able to view what dark patterns may exist on the websites you browse.
